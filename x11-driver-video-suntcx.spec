@@ -3,7 +3,7 @@ Name: x11-driver-video-suntcx
 Version: 1.1.0
 Release: %mkrel 4
 Summary: X.org driver for sun tcx Cards
-Group: Development/X11
+Group: System/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/driver/xf86-video-suntcx-%{version}.tar.bz2
 License: MIT
