@@ -1,7 +1,7 @@
 ExclusiveArch:	sparc sparc64
 Name: x11-driver-video-suntcx
 Version: 1.1.1
-Release: %mkrel 1
+Release: 2
 Summary: X.org driver for sun tcx Cards
 Group: System/X11
 URL: https://xorg.freedesktop.org
